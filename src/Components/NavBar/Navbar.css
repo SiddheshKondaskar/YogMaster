@@ -1,0 +1,10 @@
+.navbar-inner {
+  background: transparent;
+}
+ul {
+  gap: 48px;
+}
+nav {
+  font-size: 15px;
+  font-weight: bold;
+}

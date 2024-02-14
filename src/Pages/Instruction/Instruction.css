@@ -1,0 +1,35 @@
+.page1 {
+  width: 65%;
+  margin-top: 3%;
+  padding-top: 1500 rem;
+  
+  
+}
+.page-section1 h4 {
+  color: #ffa500;
+  font-weight: bold;
+  font-size: 30px;
+  left: 1000 rem;
+}
+.page-section1 .row {
+  margin-top: 10%;
+
+}
+ 
+.page-img {
+  text-align: center;
+}
+.page-img img {
+  width: 40%;
+  
+}
+.page .dropdown {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 30%;
+}
+
+.page .container {
+width: 90%;
+margin-left: 30%;
+}
